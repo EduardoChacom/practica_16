@@ -2,6 +2,16 @@ body{
     font-family: 'Merriweather Sans', sans-serif;
 }
 
+.barraTareas{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: black;
+    padding: 25px;
+    width: 100%;
+    color: aliceblue;
+}
+
 .input_01 {
     border: none;
     background-color: transparent;

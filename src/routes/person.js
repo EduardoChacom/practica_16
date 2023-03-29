@@ -5,7 +5,7 @@ let router = express.Router();
 // Refactorización, hace lo mismo, pero funciona direferente,
 // gracias a las promesas.
 router.get('/person', (req, res) => {
-    res.send('Has solicitado el listado de personas');
+    res.render('person')
 });
 
 module.exports = router;
