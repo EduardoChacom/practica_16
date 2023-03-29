@@ -1,0 +1,54 @@
+body{
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.input_01 {
+    border: none;
+    background-color: transparent;
+    border-bottom: 1px solid black;
+    margin-bottom: 20px;
+    padding: 10px;
+    width: 100%;
+    outline: none;
+    font-size: 20px;
+}
+
+#boton {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 20px;
+}
+
+.card_01 {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.tabla_01 {
+    font-size: 20px;
+    border-collapse: collapse;
+    margin: 20px 0;
+    width: 100%;
+}
+
+.tabla_01 th {
+    background-color: transparent;
+    color: black;
+    font-weight: normal;
+    padding: 10px;
+    text-align: left;
+}
+
+.tabla_01 td {
+    border-bottom: 1px solid black;
+    padding: 10px;
+    text-align: left;
+}
+
+
+.encabezado {
+    background-color: #f2f2f2;
+}
